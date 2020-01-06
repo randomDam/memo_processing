@@ -3,7 +3,7 @@
 Mémo Processing (non exhaustif) à l'usage des Graphistes/Artistes/Designers/Ingénieurs  
 
 
-Voici un lien ou vous pouvez le télécharger :  
+Voici un lien où vous pouvez le télécharger :  
 -[Télécharger memoProV2_6](memoProV2_6.pdf)  
 (non imposé)  
   
