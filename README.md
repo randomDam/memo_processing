@@ -5,10 +5,14 @@ Mémo Processing (non exhaustif) à l'usage des Graphistes/Artistes/Designers/In
 
 Voici un lien ou vous pouvez le télécharger :  
 [Télécharger memoProV2_6](memoProV2_6.pdf)  
+(non-imposé)  
+  
+[Télécharger memoPro_imp](memoPro_imp.pdf)  
+(imposé par planche, imprimé les pages paires, retourner les pages et imprimez les pages impaires)
 
   
 Vous pouvez ensuite l'imprimer par 2 pages recto/verso pour obtenir un livret au format A5.  
-N'hésitez pas ajouter des pulls requests si voux juger qu'il manques certaines choses.
+N'hésitez pas ajouter des _pulls requests_ si voux juger qu'il manques certaines choses.
 
 ---
 <div style="display: inline-block">
@@ -33,3 +37,4 @@ N'hésitez pas ajouter des pulls requests si voux juger qu'il manques certaines 
 	<img src="preview/memoIma-19.png" alt="" width="200">
 	<img src="preview/memoIma-20.png" alt="" width="200">
 </div>
+---
