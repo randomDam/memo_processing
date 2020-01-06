@@ -8,11 +8,11 @@ Voici un lien où vous pouvez le télécharger :
 (non imposé)  
   
 -[Télécharger memoPro_imp](memoPro_imp.pdf)  
-(imposé par planche, imprimez les pages paires, retournez les pages et imprimez les pages impaires)
+(imposé par planche, imprimez les pages impaires, retournez les pages et imprimez les pages paires)
 
   
 Vous pouvez ensuite l'imprimer par 2 pages recto/verso pour obtenir un livret au format A5.  
-N'hésitez pas ajouter des _pulls requests_ si vous juger qu'il manque certaines choses.
+N'hésitez pas à ajouter des _pulls requests_ si vous jugez qu'il manque certaines choses.
 
 ---
 <div style="display: inline-block">
