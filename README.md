@@ -1,14 +1,14 @@
-# memo_processing
+# Mémo Processing
 
 Mémo Processing (non exhaustif) à l'usage des Graphistes/Artistes/Designers/Ingénieurs  
 
 
 Voici un lien ou vous pouvez le télécharger :  
+[Télécharger memoProV2_6](memoProV2_6.pdf)  
 
-
-
-N'hésitez pas ajouter des pulls requests si voux juger qu'il manques certaine choses essentiels.
-
+  
+Vous pouvez ensuite l'imprimer par 2 pages recto/verso pour obtenir un livret au format A5.  
+N'hésitez pas ajouter des pulls requests si voux juger qu'il manques certaines choses.
 
 ---
 <div style="display: inline-block">
