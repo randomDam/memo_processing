@@ -1,5 +1,16 @@
 # memo_processing
 
+Mémo Processing (non exhaustif) à l'usage des Graphistes/Artistes/Designers/Ingénieurs  
+
+
+Voici un lien ou vous pouvez le télécharger :  
+
+
+
+N'hésitez pas ajouter des pulls requests si voux juger qu'il manques certaine choses essentiels.
+
+
+---
 <div style="display: inline-block">
 	<img src="preview/memoIma-01.png" alt="" width="200">
 	<img src="preview/memoIma-02.png" alt="" width="200">
